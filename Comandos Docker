@@ -1,0 +1,105 @@
+  716  docker container run --publish 8080:80 --name nginx nginx
+  717  sudo usermod -aG docker $USER
+  719  docker container run --publish 8080:80 --name nginx nginx
+  721  docker container run --publish 8080:80 --name nginx nginx
+  723  docker container run --publish 8080:80 --name nginx nginx
+  733  docker container run --publish 8080:80 --name nginx nginx
+  738  docker container run --publish 8080:80 --name nginx nginx
+  759  docker version
+  760  docker ps
+  761  docker stop nginx 
+  762  docker rm nginx 
+  763  docker container inspect 
+  764  docker container inspect container Id
+  765  docker container inspect 11c
+  766  docker container inspect 11cbe98e753d
+  767  docker images
+  768  docker container run --publish 8080:80 --name nginx nginx
+  770  docker container  run -d nginx
+  771  docker container  ld
+  772  docker container  ls
+  773  docker container stats ae803c4adc44
+  775  docker container run --publish 8080:80 --name nginx nginx
+  776  docker ps -a
+  777  docker container start nginx 
+  778  docker container ls
+  779  docker container rm nginx
+  780  docker container stop nginx
+  781  docker container rm nginx
+  782  docker container ls
+  783  docker container ls -a
+  784  docker container run --publish 8080:80 --name nginx nginx
+  785  docker container stop nginx
+  786  docker container rm nginx
+  787  docker container run --publish 8080:80 --name nginx nginx nohup
+  788  docker container run --publish 8080:80 -d --name nginx nginx
+  789  docker container ls -a
+  790  docker container rm nginx
+  791  docker container ls -a
+  792  docker container run --publish 8080:80 -d --name nginx nginx
+  793  docker container logs nginx -f
+  794  docker container inspect  nginx 
+  795  docker container imafgeinspect  nginx 
+  796  docker container image inspect  nginx 
+  797  docker container inspect  nginx --format "{{ .NetworkSettings.IPAddress}}" nginx
+  799  docker container exec -it  nginx /bin/sh
+  800  du -hs /var/lib/docker
+  801  sudo du -hs /var/lib/docker
+  802  du  -hs /var/lib/docker
+  813  docker image buid - minhaimagem .
+  814  docker image buid -t minhaimagem .
+  815  docker image build -t minhaimagem .
+  816  sudo docker image build -t minhaimagem .
+  819  sudo docker image build -t minhaimagem .
+  821  sudo docker image build -t minhaimagem .
+  822  docker image ls
+  824  sudo docker image build -t minhaimagem .
+  825  docker image ls
+  826  docker container run --name minhaimagem -p 8100
+  827  docker container rm -r minhaimagem
+  828  docker container stop minhaimagem
+  829  docker container rm -f minhaimagem
+  830  docker container rm -f 915a7e3fe297
+  831  docker image ls
+  832  docker container rm -f minhaimagem
+  833  docker container stop minhaimagem
+  834  docker container start minhaimagem
+  838  docker container run --name minhaimagem -p 8100
+  839  docker container run --name minhaimagem2 -p 8100
+  840  sudo docker image build -t minhaimagem .
+  841  docker container run --name minhaimagem -p 8100
+  842  docker container run --name minhaimagem -p 8112
+  843  docker container rm -f minhaimagem
+  844  docker image ls
+  845  sudo docker image build -t minhaimagem .
+  846  docker container run --name minhaimagem -p 8100
+  848  sudo docker image build -t minhaimagem .
+  849  docker container run --name minhaimagem -p 8100
+  851  docker container run --name minhaimagem -p 8100
+  852  sudo docker image build -t minhaimagem2 .
+  853  docker container run --name minhaimagem2 -p 8100
+  855  sudo docker image build -t minhaimagem .
+  856  docker container run --name minhaimagem -p 8100
+  857  docker container run --name minhaimagem -p 8100:80
+  859  docker container rm -f  minhaimagem
+  860  docker container rm -f  minhaimagem:latest
+  861  docker container rm -f  --name minhaimagem
+  862  docker container rm -f
+  863  docker container rm -f --help
+  864  docker container ls
+  866  sudo docker image build -t minhaimagem .
+  867  docker container run --name minhaimagem -p 8100:80
+  869  sudo docker image build -t minhaimagem .
+  871  sudo docker image build -t minhaimagem .
+  872  docker container run --name minhaimagem -p 8100:80
+  873  docker i,age
+  874  docker image
+  875  docker images
+  876  docker container run --name minhaimagem -p 8100:80 minhaimagem
+  944  history | grep *docker* | tee >Comandos\ Docker 
+  945  history | grep *docker* 
+  947  history | grep *docker* 
+  948  history | grep docker
+  949  history | grep docker| tee >Comandos\ Docker 
+  951  history | grep docker| tee Comandos\ Docker 
+  953  history | grep docker| tee Comandos\ Docker 
